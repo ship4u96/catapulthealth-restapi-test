@@ -1,0 +1,9 @@
+org\catapulthealth\junitrestweb\App.class
+org\catapulthealth\junitrestweb\Test_DeleteDictionary.class
+org\catapulthealth\junitrestweb\Test.class
+org\catapulthealth\junitrestweb\AppTest.class
+org\catapulthealth\junitrestweb\Test_modifykeypairvalue.class
+org\catapulthealth\junitrestweb\MessageUtils.class
+org\catapulthealth\junitrestweb\Test_modifykeypairvalue$Test_DeleteDictionary.class
+org\catapulthealth\junitrestweb\CreateNewDictionaryTest.class
+org\catapulthealth\junitrestweb\EmployeeRestTest.class
